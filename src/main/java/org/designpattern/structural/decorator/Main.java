@@ -1,3 +1,5 @@
+package org.designpattern.structural.decorator;
+
 import org.designpattern.structural.decorator.CompressorDecorator;
 import org.designpattern.structural.decorator.DataSource;
 import org.designpattern.structural.decorator.EncryptDecorator;
